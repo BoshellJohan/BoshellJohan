@@ -28,8 +28,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=BoshellJohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BoshellJohan&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BoshellJohan&theme=dark&hide_border=false&layout=compact)
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BoshellJohan&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=BoshellJohan&icon=0&color=0)](https://visitcount.itsvg.in)
+
