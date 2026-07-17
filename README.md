@@ -1,5 +1,5 @@
 # 💫 About Me
-- 💻 **Full Stack Developer** specialized in **Angular** & **TypeScript**, with backend experience in **Node.js** and **NestJS**
+- 💻 **Full Stack Developer** specialized in **Angular** & **TypeScript**, with backend experience in **Node.js**, **NestJS** and **Firebase**
 - 🎓 Finishing my **Bachelor's in Computer Science & Systems Engineering** (graduation approaching)
 - 🚀 Experienced in leading tech migrations, designing scalable architectures, and building secure REST APIs
 - 🤖 I leverage **AI tools & AI Agents** to boost productivity and accelerate delivery
@@ -24,8 +24,4 @@
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ---
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=BoshellJohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=BoshellJohan&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BoshellJohan&theme=dark&hide_border=false&layout=compact)
 
