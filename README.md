@@ -160,9 +160,6 @@ The UTP mobile application supported by the API has surpassed **10,000 downloads
 
 Backend services supporting the Universidad Tecnológica de Pereira mobile application.
 
-**Technologies:**  
-`NestJS` · `TypeScript` · `PostgreSQL` · `REST APIs` · `Oracle`
-
 📱 **10,000+ downloads**
 
 ---
